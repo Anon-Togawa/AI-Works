@@ -42,7 +42,7 @@
 | **L7** | **L8 首帧** | **L8 尾帧** |
 | <img src="视频1/分镜图/L7.webp" width="260"> | <img src="视频1/分镜图/L8首帧.webp" width="260"> | <img src="视频1/分镜图/L8尾帧.webp" width="260"> |
 
-过程素材：[分镜视频](视频1/分镜视频)（14 段）、[过渡图](视频1/过渡图)（12 张）
+过程素材：[分镜视频](https://github.com/Anon-Togawa/AI-Works/tree/main/视频1/分镜视频)（14 段）、[过渡图](https://github.com/Anon-Togawa/AI-Works/tree/main/视频1/过渡图)（12 张）
 
 ---
 
