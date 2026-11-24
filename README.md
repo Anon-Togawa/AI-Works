@@ -28,17 +28,17 @@
 
 | 主角 | Boss | 场景 |
 |---|---|---|
-| <img src="视频1/设定图/主角造型图.webp" width="260"> | <img src="视频1/设定图/Boss造型图.webp" width="260"> | <img src="视频1/设定图/场景设定图.png" width="260"> |
+| <a href="视频1/设定图/主角造型图.webp"><img src="thumbs/视频1/设定图/主角造型图.webp" width="260"></a> | <a href="视频1/设定图/Boss造型图.webp"><img src="thumbs/视频1/设定图/Boss造型图.webp" width="260"></a> | <a href="视频1/设定图/场景设定图.png"><img src="thumbs/视频1/设定图/场景设定图.webp" width="260"></a> |
 
 ### 分镜图
 
 | L1 | L2 | L3 |
 |---|---|---|
-| <img src="视频1/分镜图/L1.webp" width="260"> | <img src="视频1/分镜图/L2.png" width="260"> | <img src="视频1/分镜图/L3%20.webp" width="260"> |
+| <a href="视频1/分镜图/L1.webp"><img src="thumbs/视频1/分镜图/L1.webp" width="260"></a> | <a href="视频1/分镜图/L2.png"><img src="thumbs/视频1/分镜图/L2.webp" width="260"></a> | <a href="视频1/分镜图/L3%20.webp"><img src="thumbs/视频1/分镜图/L3.webp" width="260"></a> |
 | **L4** | **L5** | **L6** |
-| <img src="视频1/分镜图/L4.webp" width="260"> | <img src="视频1/分镜图/L5.webp" width="260"> | <img src="视频1/分镜图/L6.webp" width="260"> |
+| <a href="视频1/分镜图/L4.webp"><img src="thumbs/视频1/分镜图/L4.webp" width="260"></a> | <a href="视频1/分镜图/L5.webp"><img src="thumbs/视频1/分镜图/L5.webp" width="260"></a> | <a href="视频1/分镜图/L6.webp"><img src="thumbs/视频1/分镜图/L6.webp" width="260"></a> |
 | **L7** | **L8 首帧** | **L8 尾帧** |
-| <img src="视频1/分镜图/L7.webp" width="260"> | <img src="视频1/分镜图/L8首帧.webp" width="260"> | <img src="视频1/分镜图/L8尾帧.webp" width="260"> |
+| <a href="视频1/分镜图/L7.webp"><img src="thumbs/视频1/分镜图/L7.webp" width="260"></a> | <a href="视频1/分镜图/L8首帧.webp"><img src="thumbs/视频1/分镜图/L8首帧.webp" width="260"></a> | <a href="视频1/分镜图/L8尾帧.webp"><img src="thumbs/视频1/分镜图/L8尾帧.webp" width="260"></a> |
 
 过程素材：[分镜视频](https://github.com/Anon-Togawa/AI-Works/tree/main/视频1/分镜视频)（14 段）、[过渡图](https://github.com/Anon-Togawa/AI-Works/tree/main/视频1/过渡图)（12 张）
 
@@ -65,7 +65,7 @@
 
 | 女主 | 男主 | 反派 |
 |---|---|---|
-| <img src="视频2/设定图/女主.webp" width="260"> | <img src="视频2/设定图/男主.webp" width="260"> | <img src="视频2/设定图/反派.webp" width="260"> |
+| <a href="视频2/设定图/女主.webp"><img src="thumbs/视频2/设定图/女主.webp" width="260"></a> | <a href="视频2/设定图/男主.webp"><img src="thumbs/视频2/设定图/男主.webp" width="260"></a> | <a href="视频2/设定图/反派.webp"><img src="thumbs/视频2/设定图/反派.webp" width="260"></a> |
 
 ---
 
